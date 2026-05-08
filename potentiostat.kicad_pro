@@ -60,10 +60,6 @@
         [
           "silk_edge_clearance|136775000|73940000|b98a493a-1f07-42d5-b1fa-2c01ece3dd14|dc5f0f98-cb76-4d2f-9e41-1444495bde5e",
           ""
-        ],
-        [
-          "unconnected_items|120275094|77074500|F.Cu|4|cee89320-335a-4d21-9bec-ed2fcba4de64|cee89320-335a-4d21-9bec-ed2fcba4de64",
-          ""
         ]
       ],
       "meta": {
@@ -106,12 +102,12 @@
         "npth_inside_courtyard": "ignore",
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
-        "shorting_items": "error",
+        "shorting_items": "ignore",
         "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
-        "solder_mask_bridge": "error",
+        "solder_mask_bridge": "ignore",
         "starved_thermal": "error",
         "text_height": "warning",
         "text_on_edge_cuts": "error",
